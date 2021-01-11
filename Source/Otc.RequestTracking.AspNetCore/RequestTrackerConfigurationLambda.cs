@@ -1,11 +1,11 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.DependencyInjection;
 using System;
 
 namespace Otc.RequestTracking.AspNetCore
 {
     public class RequestTrackerConfigurationLambda
     {
-        private IServiceCollection services;
+        private readonly IServiceCollection services;
 
         public RequestTrackerConfigurationLambda(IServiceCollection services)
         {

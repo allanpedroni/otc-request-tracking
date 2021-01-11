@@ -1,7 +1,5 @@
-﻿using Otc.RequestTracking.AspNetCore;
 using System;
-using System.Collections.Generic;
-using System.Text;
+using Otc.RequestTracking.AspNetCore;
 
 namespace Microsoft.Extensions.DependencyInjection
 {

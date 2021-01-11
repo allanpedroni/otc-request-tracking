@@ -1,4 +1,4 @@
-﻿namespace Otc.RequestTracking.AspNetCore
+namespace Otc.RequestTracking.AspNetCore
 {
     public class RequestTrackerConfiguration
     {

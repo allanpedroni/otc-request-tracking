@@ -1,4 +1,4 @@
-﻿using Otc.RequestTracking.AspNetCore;
+using Otc.RequestTracking.AspNetCore;
 
 namespace Microsoft.AspNetCore.Builder
 {
